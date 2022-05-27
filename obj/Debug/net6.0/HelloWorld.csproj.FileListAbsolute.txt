@@ -1,0 +1,15 @@
+/Users/warrentran/Desktop/repo/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/warrentran/Desktop/repo/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/warrentran/Desktop/repo/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/warrentran/Desktop/repo/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/warrentran/Desktop/repo/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/warrentran/Desktop/repo/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
